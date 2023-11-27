@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matvarughese
 - 👀 I’m interested in machine learning, start-ups, fintech, mobility, digital health, web3
-- 🌱 I’m currently learning NLP, machine learning in finance
+- 🌱 I’m currently working with LLMs and other machine learning algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, LinkedIn
 
